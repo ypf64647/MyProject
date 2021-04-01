@@ -1,0 +1,14 @@
+D:\vsProject\MyProject\MGD\Code\MGDUI\bin\Debug\UFIDA.U9.Cust.MGDUI.WebPart.dll
+D:\vsProject\MyProject\MGD\Code\MGDUI\bin\Debug\UFIDA.U9.Cust.MGDUI.WebPart.pdb
+D:\vsProject\MyProject\MGD\Code\MGDUI\bin\Debug\UBF.System.dll
+D:\vsProject\MyProject\MGD\Code\MGDUI\bin\Debug\UFSoft.UBF.UI.UIFormPersonalization.dll
+D:\vsProject\MyProject\MGD\Code\MGDUI\bin\Debug\UFSoft.UBF.UI.UIFormPersonalization.Library.dll
+D:\vsProject\MyProject\MGD\Code\MGDUI\bin\Debug\UFSoft.UBF.UI.DefaultValue.CommonService.dll
+D:\vsProject\MyProject\MGD\Code\MGDUI\bin\Debug\UFSoft.UBF.UI.UIFormPersonalization.xml
+D:\vsProject\MyProject\MGD\Code\MGDUI\bin\Debug\UFSoft.UBF.UI.UIFormPersonalization.Library.xml
+D:\vsProject\MyProject\MGD\Code\MGDUI\bin\Debug\UBF.System.xml
+D:\vsProject\MyProject\MGD\Code\MGDUI\bin\Debug\UFSoft.UBF.UI.DefaultValue.CommonService.xml
+D:\vsProject\MyProject\MGD\Code\MGDUI\bin\Debug\zh-CN\UFSoft.UBF.UI.UIFormPersonalization.resources.dll
+D:\vsProject\MyProject\MGD\Code\MGDUI\obj\Debug\UFIDA.U9.Cust.MGDUI.WebPart.csprojResolveAssemblyReference.cache
+D:\vsProject\MyProject\MGD\Code\MGDUI\obj\Debug\UFIDA.U9.Cust.MGDUI.WebPart.dll
+D:\vsProject\MyProject\MGD\Code\MGDUI\obj\Debug\UFIDA.U9.Cust.MGDUI.WebPart.pdb

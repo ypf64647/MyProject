@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project id="4c4909bd-c38d-4617-8722-b135a404ac7c" name="MGDQry" displayName="MGDQry" description="" help="" type="" assemblyName="MGDQry" mapProject="" resourceName="" projectVersion="Normal">
+  <Imports>
+    <Import id="34b3ab40-8185-4289-a94f-1e7b2e88e100" name="MGDListUI" displayName="MGDListUI" description="" help="" componentid="921acc43-08ae-41c3-89e1-40edf8836044" path="..\MGDListUI\MGDListUI.ubfuiproj" type="UI" isRuntime="False" />
+    <Import id="9f1d8fb9-8110-4a32-8ed5-d6582193dbc3" name="MGDListBP" displayName="MGDListBP" description="" help="" componentid="7f952a6f-9747-481e-81a8-77dfcd8b4d8e" path="..\MGDListBP\MGDListBP.ubfbpproj" type="BP" isRuntime="False" />
+  </Imports>
+  <SourceControl />
+  <ItemGroup />
+</Project>

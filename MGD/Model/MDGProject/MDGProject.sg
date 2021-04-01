@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceGroup>
+  <ServiceGroupInfo id="b25c0698-4ea0-4a72-84b3-6bfc17641ffe" name="MDGProject" displayName="MDGProject" description="" help="" fullPath="D:\vsProject\MyProject\MGD\Model\MDGProject\MDGProject.sg" applicationID="" />
+  <AssemblyGroup>
+    <Assembly ID="53930c4f-135b-41a1-9045-d2294f123033" name="UFIDA.U9.Cust.MGDBE" type="BE" path="" />
+    <Assembly ID="297c5d8f-3bfc-438d-a031-d5643ea16b96" name="UFIDA.U9.Cust.MGDSV" type="SV" path="" />
+    <Assembly ID="0446c949-162d-48b6-90d8-0b5e3a13394d" name="UFIDA.U9.Cust.MGDBP" type="BP" path="" />
+    <Assembly ID="2a27cd4b-c305-4125-8962-f46caa11abb3" name="UFIDA.U9.Cust.MGDUI" type="UI" path="" />
+    <Assembly ID="7f952a6f-9747-481e-81a8-77dfcd8b4d8e" name="UFIDA.U9.Cust.MGDListBP" type="BP" path="" />
+    <Assembly ID="4c4909bd-c38d-4617-8722-b135a404ac7c" name="MGDQry" type="" path="" />
+    <Assembly ID="921acc43-08ae-41c3-89e1-40edf8836044" name="UFIDA.U9.Cust.MGDListUI" type="UI" path="" />
+  </AssemblyGroup>
+</ServiceGroup>

@@ -1,0 +1,14 @@
+<Solution>
+  <SourceControl>
+  </SourceControl>
+  <ItemGroup>
+    <Item id="952be66a-dc86-4ad4-ae12-668b84f709bf" include="MGDBE\MGDBE.ubfmlproj" />
+    <Item id="6d61e455-4149-4f50-b8e6-adffc84e3b79" include="MGDSV\MGDSV.ubfserproj" />
+    <Item id="cbed8faa-ba8a-421b-bb8e-20ac5037b2e2" include="MGDBP\MGDBP.ubfbpproj" />
+    <Item id="fa825519-cb2a-41da-a14b-d50d427baf4e" include="MGDUI\MGDUI.ubfuiproj" />
+    <Item id="0b042b75-250b-437c-82ab-a44571c9fc0e" include="MGDListUI\MGDListUI.ubfuiproj" />
+    <Item id="1e3cea89-098b-44e5-be04-e029096ce493" include="MGDListBP\MGDListBP.ubfbpproj" />
+    <Item id="181b4d76-1fe4-4071-9b0e-5ac94ae3c4a4" include="MGDQry\MGDQry.ubfqueryproj" />
+  </ItemGroup>
+  <ServiceGroupInfo id="b25c0698-4ea0-4a72-84b3-6bfc17641ffe" name="MDGProject" displayName="MDGProject" description="" help="" fullPath="D:\vsProject\MyProject\MGD\Model\MDGProject\MDGProject.sg" applicationID="" />
+</Solution>
